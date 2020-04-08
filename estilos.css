@@ -1,6 +1,8 @@
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 16px;
+    margin: 0;
+    padding: 0;
     background-color: #f5f5dc;
     color: #131212;
 }
@@ -9,3 +11,14 @@ h1{
     color:#16a675;
 }
 
+.contenedor{
+    border:2px solid #131212;
+    width: 800px;
+    margin:0 auto;
+    padding: 20px;
+}
+.menu{
+    background-color: #16a675;
+    color:#f5f5dc;
+    padding: 20px 0;
+}
